@@ -1,3 +1,5 @@
 Constructor:-it is a member method 
             it allocates the memory for object
             it directly calls when we create object
+            
+polymorphism:-
