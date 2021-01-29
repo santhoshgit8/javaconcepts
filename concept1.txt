@@ -17,7 +17,15 @@ parseint is  a method where string is converted into a number
 to string is a method where integer is converted into a string
 abstract:declare and define methods
 final:used variable for constant,class to dont extend,methods to dont overide
-
+interface:declare methods and define methods by static or defuault keyword in place of public
+anonymsclass:class in class
+functionalinterface:having one declare method
+lamda:defining method at the place of object creation for functional interface
+>>>
+exception handling,multiplecatchblocks
+userinput
+multithreading 
+runnable interface
 
 
 
