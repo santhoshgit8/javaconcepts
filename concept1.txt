@@ -1,5 +1,13 @@
-Constructor:-it is a member method 
-            it allocates the memory for object
-            it directly calls when we create object
+Constructor: it allocates the memory for object
+This:it refers the instance variables
+methodoverloading:same methods with different parameters
+static:which doesnt require object
+innner:class in a class
+array:values with same datatype
+enchaced for loop:which doesnt require index concept
+vaargs:sending dynamic parmeters
+inheritance:acquiring features of parent to child
+super:like constructor it is default in every constructor
+Dynamic method Dispatch:changing the reference from one object next object class
+
             
-polymorphism:-
