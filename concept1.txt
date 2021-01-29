@@ -9,5 +9,16 @@ vaargs:sending dynamic parmeters
 inheritance:acquiring features of parent to child
 super:like constructor it is default in every constructor
 Dynamic method Dispatch:changing the reference from one object next object class
+                        only methods in reference class are exceuted
+encapsulation: private variable and public methods to access variables
+wrapping:primitive variable to object
+unwrapping:object to primitive variable
+parseint is  a method where string is converted into a number
+to string is a method where integer is converted into a string
+abstract:declare and define methods
+final:used variable for constant,class to dont extend,methods to dont overide
+
+
+
 
             
